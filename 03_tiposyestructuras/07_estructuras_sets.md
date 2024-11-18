@@ -76,7 +76,7 @@ print(len(s)) #4
 ```
 
 
-También podemos saber si un elemento está presente en un set con el operador `in`. Se el valor existe en el set, se devolverá `True`.
+También podemos saber si un elemento está presente en un set con el operador `in`. Si el valor existe en el set, se devolverá `True`.
 
 
 ```python
